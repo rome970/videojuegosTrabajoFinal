@@ -1,0 +1,1313 @@
+fileFormatVersion: 2
+guid: e1d15d7423ffa75479910ba28febfa63
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8215163701416473805
+    second: spriteSheetRojo-removebg-preview_0
+  - first:
+      213: -4642712142612329599
+    second: spriteSheetRojo-removebg-preview_1
+  - first:
+      213: 4870748080134624720
+    second: spriteSheetRojo-removebg-preview_2
+  - first:
+      213: 7739389861188812348
+    second: spriteSheetRojo-removebg-preview_3
+  - first:
+      213: -2111933737112194743
+    second: spriteSheetRojo-removebg-preview_4
+  - first:
+      213: -2781562803712004255
+    second: spriteSheetRojo-removebg-preview_5
+  - first:
+      213: -5583038871153267469
+    second: spriteSheetRojo-removebg-preview_6
+  - first:
+      213: -6603881171613958843
+    second: spriteSheetRojo-removebg-preview_7
+  - first:
+      213: 4374110854773943787
+    second: spriteSheetRojo-removebg-preview_8
+  - first:
+      213: 4007786741796876541
+    second: spriteSheetRojo-removebg-preview_9
+  - first:
+      213: 9122535229303436698
+    second: spriteSheetRojo-removebg-preview_10
+  - first:
+      213: 1400235444447670848
+    second: spriteSheetRojo-removebg-preview_11
+  - first:
+      213: -7999381045598607447
+    second: spriteSheetRojo-removebg-preview_12
+  - first:
+      213: 9019288929855053259
+    second: spriteSheetRojo-removebg-preview_13
+  - first:
+      213: 7443040977658326027
+    second: spriteSheetRojo-removebg-preview_14
+  - first:
+      213: -5028745537840224799
+    second: spriteSheetRojo-removebg-preview_15
+  - first:
+      213: -5522330961430483908
+    second: spriteSheetRojo-removebg-preview_16
+  - first:
+      213: -2802674971830121975
+    second: spriteSheetRojo-removebg-preview_17
+  - first:
+      213: 2295778807722235706
+    second: spriteSheetRojo-removebg-preview_18
+  - first:
+      213: -588776984019020698
+    second: spriteSheetRojo-removebg-preview_19
+  - first:
+      213: 4775053199974420386
+    second: spriteSheetRojo-removebg-preview_20
+  - first:
+      213: -471747960322201784
+    second: spriteSheetRojo-removebg-preview_21
+  - first:
+      213: 3541648649751948270
+    second: spriteSheetRojo-removebg-preview_22
+  - first:
+      213: 6891416235142461996
+    second: spriteSheetRojo-removebg-preview_23
+  - first:
+      213: 745951911246826289
+    second: spriteSheetRojo-removebg-preview_24
+  - first:
+      213: -3589700640596780493
+    second: spriteSheetRojo-removebg-preview_25
+  - first:
+      213: 91959585464812278
+    second: spriteSheetRojo-removebg-preview_26
+  - first:
+      213: 3708303680938341986
+    second: spriteSheetRojo-removebg-preview_27
+  - first:
+      213: -6075778310419877681
+    second: spriteSheetRojo-removebg-preview_28
+  - first:
+      213: -7140434088180544327
+    second: spriteSheetRojo-removebg-preview_29
+  - first:
+      213: 3152940228023229002
+    second: spriteSheetRojo-removebg-preview_30
+  - first:
+      213: 6188129164802966373
+    second: spriteSheetRojo-removebg-preview_31
+  - first:
+      213: -7141977141681946495
+    second: spriteSheetRojo-removebg-preview_32
+  - first:
+      213: 1117792292648445359
+    second: spriteSheetRojo-removebg-preview_33
+  - first:
+      213: -4727584245605652367
+    second: spriteSheetRojo-removebg-preview_34
+  - first:
+      213: -5110087709208409946
+    second: spriteSheetRojo-removebg-preview_35
+  - first:
+      213: -6578462909898301787
+    second: spriteSheetRojo-removebg-preview_36
+  - first:
+      213: -8291455894829199496
+    second: spriteSheetRojo-removebg-preview_37
+  - first:
+      213: -5697982166072102008
+    second: spriteSheetRojo-removebg-preview_38
+  - first:
+      213: -7001780941414978856
+    second: spriteSheetRojo-removebg-preview_39
+  - first:
+      213: 1405725041681585633
+    second: spriteSheetRojo-removebg-preview_40
+  - first:
+      213: 1995164552580571372
+    second: spriteSheetRojo-removebg-preview_41
+  - first:
+      213: -4686089739182101327
+    second: spriteSheetRojo-removebg-preview_42
+  - first:
+      213: -3376479721006211480
+    second: spriteSheetRojo-removebg-preview_43
+  - first:
+      213: -6905279307597467784
+    second: spriteSheetRojo-removebg-preview_44
+  - first:
+      213: -3696444409311200441
+    second: spriteSheetRojo-removebg-preview_45
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: spriteSheetRojo-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 393
+        width: 29
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33b436da320edfd80800000000000000
+      internalID: -8215163701416473805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteSheetRojo-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 378
+        width: 29
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18b033987e5c19fb0800000000000000
+      internalID: -4642712142612329599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteSheetRojo-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 377
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d517d2929f589340800000000000000
+      internalID: 4870748080134624720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteSheetRojo-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 377
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3e3b6ed216d76b60800000000000000
+      internalID: 7739389861188812348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteSheetRojo-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 378
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 941b342a477e0b2e0800000000000000
+      internalID: -2111933737112194743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteSheetRojo-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 378
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16f6e4c0e57e569d0800000000000000
+      internalID: -2781562803712004255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteSheetRojo-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 377
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fc26b51abf0582b0800000000000000
+      internalID: -5583038871153267469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteSheetRojo-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 342
+        width: 34
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54d3f03301d4a54a0800000000000000
+      internalID: -6603881171613958843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteSheetRojo-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 333
+        width: 39
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bed2bfab5a6f3bc30800000000000000
+      internalID: 4374110854773943787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteSheetRojo-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 297
+        width: 33
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df0b258bec48e9730800000000000000
+      internalID: 4007786741796876541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteSheetRojo-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 288
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a953e913571c99e70800000000000000
+      internalID: 9122535229303436698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteSheetRojo-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 288
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 042f63cc7b2ae6310800000000000000
+      internalID: 1400235444447670848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteSheetRojo-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 288
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a72a12525d7cf090800000000000000
+      internalID: -7999381045598607447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteSheetRojo-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 251
+        width: 84
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcd9f96de73fa2d70800000000000000
+      internalID: 9019288929855053259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteSheetRojo-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 251
+        width: 61
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0c2002955efa4760800000000000000
+      internalID: 7443040977658326027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteSheetRojo-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 236
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e5e337a39e463ab0800000000000000
+      internalID: -5028745537840224799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteSheetRojo-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 235
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3c6bc7cf3dbc53b0800000000000000
+      internalID: -5522330961430483908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteSheetRojo-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 235
+        width: 30
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90a003b56f5ea19d0800000000000000
+      internalID: -2802674971830121975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteSheetRojo-removebg-preview_18
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 235
+        width: 34
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a37572d79ae3cdf10800000000000000
+      internalID: 2295778807722235706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteSheetRojo-removebg-preview_19
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 236
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 664de97d37e34d7f0800000000000000
+      internalID: -588776984019020698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteSheetRojo-removebg-preview_20
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 235
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2af41180695644240800000000000000
+      internalID: 4775053199974420386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteSheetRojo-removebg-preview_21
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 200
+        width: 35
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 847ea71cab30479f0800000000000000
+      internalID: -471747960322201784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteSheetRojo-removebg-preview_22
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 200
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eebe4b7bea6762130800000000000000
+      internalID: 3541648649751948270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteSheetRojo-removebg-preview_23
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 200
+        width: 30
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2ab607bd8a33af50800000000000000
+      internalID: 6891416235142461996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteSheetRojo-removebg-preview_24
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 186
+        width: 35
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13b0461af472a5a00800000000000000
+      internalID: 745951911246826289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteSheetRojo-removebg-preview_25
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 186
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33a9c335942de2ec0800000000000000
+      internalID: -3589700640596780493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteSheetRojo-removebg-preview_26
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 147
+        width: 34
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f2825971c4b64100800000000000000
+      internalID: 91959585464812278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteSheetRojo-removebg-preview_27
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 135
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2667a95ec8a867330800000000000000
+      internalID: 3708303680938341986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteSheetRojo-removebg-preview_28
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 137
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc0766941df7eaba0800000000000000
+      internalID: -6075778310419877681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteSheetRojo-removebg-preview_29
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 93
+        width: 31
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bc88e7470518ec90800000000000000
+      internalID: -7140434088180544327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteSheetRojo-removebg-preview_30
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 81
+        width: 35
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4a1d51be6e71cb20800000000000000
+      internalID: 3152940228023229002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteSheetRojo-removebg-preview_31
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 82
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 563c05470b6a0e550800000000000000
+      internalID: 6188129164802966373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteSheetRojo-removebg-preview_32
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 82
+        width: 21
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 180861421a992ec90800000000000000
+      internalID: -7141977141681946495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteSheetRojo-removebg-preview_33
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 81
+        width: 27
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa5eaf7fa22338f00800000000000000
+      internalID: 1117792292648445359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteSheetRojo-removebg-preview_34
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 82
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17821fa2d2f346eb0800000000000000
+      internalID: -4727584245605652367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteSheetRojo-removebg-preview_35
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 81
+        width: 28
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a80b898d425519b0800000000000000
+      internalID: -5110087709208409946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteSheetRojo-removebg-preview_36
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 81
+        width: 22
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5aedd6f66da94b4a0800000000000000
+      internalID: -6578462909898301787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteSheetRojo-removebg-preview_37
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 81
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87f03ed2bc4deec80800000000000000
+      internalID: -8291455894829199496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteSheetRojo-removebg-preview_38
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 37
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 883f2ceb863bce0b0800000000000000
+      internalID: -5697982166072102008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteSheetRojo-removebg-preview_39
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 24
+        width: 35
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8da2cdfa45da4de90800000000000000
+      internalID: -7001780941414978856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteSheetRojo-removebg-preview_40
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 23
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e55d414a73228310800000000000000
+      internalID: 1405725041681585633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteSheetRojo-removebg-preview_41
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 24
+        width: 24
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce02409f69f30bb10800000000000000
+      internalID: 1995164552580571372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteSheetRojo-removebg-preview_42
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 24
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bca27ec53aa7feb0800000000000000
+      internalID: -4686089739182101327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteSheetRojo-removebg-preview_43
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 24
+        width: 23
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86e5d1645955421d0800000000000000
+      internalID: -3376479721006211480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteSheetRojo-removebg-preview_44
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 24
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87f2cc33e058b20a0800000000000000
+      internalID: -6905279307597467784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteSheetRojo-removebg-preview_45
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 13
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74bf603f46793bcc0800000000000000
+      internalID: -3696444409311200441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      spriteSheetRojo-removebg-preview_0: -8215163701416473805
+      spriteSheetRojo-removebg-preview_1: -4642712142612329599
+      spriteSheetRojo-removebg-preview_10: 9122535229303436698
+      spriteSheetRojo-removebg-preview_11: 1400235444447670848
+      spriteSheetRojo-removebg-preview_12: -7999381045598607447
+      spriteSheetRojo-removebg-preview_13: 9019288929855053259
+      spriteSheetRojo-removebg-preview_14: 7443040977658326027
+      spriteSheetRojo-removebg-preview_15: -5028745537840224799
+      spriteSheetRojo-removebg-preview_16: -5522330961430483908
+      spriteSheetRojo-removebg-preview_17: -2802674971830121975
+      spriteSheetRojo-removebg-preview_18: 2295778807722235706
+      spriteSheetRojo-removebg-preview_19: -588776984019020698
+      spriteSheetRojo-removebg-preview_2: 4870748080134624720
+      spriteSheetRojo-removebg-preview_20: 4775053199974420386
+      spriteSheetRojo-removebg-preview_21: -471747960322201784
+      spriteSheetRojo-removebg-preview_22: 3541648649751948270
+      spriteSheetRojo-removebg-preview_23: 6891416235142461996
+      spriteSheetRojo-removebg-preview_24: 745951911246826289
+      spriteSheetRojo-removebg-preview_25: -3589700640596780493
+      spriteSheetRojo-removebg-preview_26: 91959585464812278
+      spriteSheetRojo-removebg-preview_27: 3708303680938341986
+      spriteSheetRojo-removebg-preview_28: -6075778310419877681
+      spriteSheetRojo-removebg-preview_29: -7140434088180544327
+      spriteSheetRojo-removebg-preview_3: 7739389861188812348
+      spriteSheetRojo-removebg-preview_30: 3152940228023229002
+      spriteSheetRojo-removebg-preview_31: 6188129164802966373
+      spriteSheetRojo-removebg-preview_32: -7141977141681946495
+      spriteSheetRojo-removebg-preview_33: 1117792292648445359
+      spriteSheetRojo-removebg-preview_34: -4727584245605652367
+      spriteSheetRojo-removebg-preview_35: -5110087709208409946
+      spriteSheetRojo-removebg-preview_36: -6578462909898301787
+      spriteSheetRojo-removebg-preview_37: -8291455894829199496
+      spriteSheetRojo-removebg-preview_38: -5697982166072102008
+      spriteSheetRojo-removebg-preview_39: -7001780941414978856
+      spriteSheetRojo-removebg-preview_4: -2111933737112194743
+      spriteSheetRojo-removebg-preview_40: 1405725041681585633
+      spriteSheetRojo-removebg-preview_41: 1995164552580571372
+      spriteSheetRojo-removebg-preview_42: -4686089739182101327
+      spriteSheetRojo-removebg-preview_43: -3376479721006211480
+      spriteSheetRojo-removebg-preview_44: -6905279307597467784
+      spriteSheetRojo-removebg-preview_45: -3696444409311200441
+      spriteSheetRojo-removebg-preview_5: -2781562803712004255
+      spriteSheetRojo-removebg-preview_6: -5583038871153267469
+      spriteSheetRojo-removebg-preview_7: -6603881171613958843
+      spriteSheetRojo-removebg-preview_8: 4374110854773943787
+      spriteSheetRojo-removebg-preview_9: 4007786741796876541
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
