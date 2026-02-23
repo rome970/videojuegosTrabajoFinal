@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: ef02da736fc0529469fde64cc7c7d6aa
+guid: 6824f603c9a3d804b9d428ecbc20a7b5
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -3519189659449014460
-    second: yellowmanTittle-removebg-preview_0
+      213: -3899105866321093380
+    second: continuarYmenuButtons_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -48,7 +48,7 @@ TextureImporter:
   compressionQuality: 50
   spriteMode: 2
   spriteExtrude: 1
-  spriteMeshType: 1
+  spriteMeshType: 0
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
   spritePixelsToUnits: 100
@@ -113,23 +113,23 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: yellowmanTittle-removebg-preview_0
+      name: continuarYmenuButtons_0
       rect:
         serializedVersion: 2
-        x: 11
-        y: 0
-        width: 600
-        height: 408
+        x: 0
+        y: 330
+        width: 995
+        height: 239
       alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 44, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 447405376a3592fc0800000000000000
-      internalID: -3519189659449014460
+      spriteID: cfc1a487fd793e9c0800000000000000
+      internalID: -3899105866321093380
       vertices: []
       indices: 
       edges: []
@@ -138,7 +138,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: a2517a05ae8346a40bdea17e2a344cc1
     internalID: 0
     vertices: []
     indices: 
@@ -146,9 +146,13 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+      - key: SpriteEditor.SliceOnImport
+        value: False
     nameFileIdTable:
-      yellowmanTittle-removebg-preview_0: -3519189659449014460
+      continuarYmenuButtons_0: -3899105866321093380
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
