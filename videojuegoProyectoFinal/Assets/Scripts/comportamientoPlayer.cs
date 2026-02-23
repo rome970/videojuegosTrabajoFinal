@@ -7,7 +7,6 @@ public class comportamientoPlayer : MonoBehaviour
     public float velocidad = 8f;
     public float fuerzaSalto = 12f;
     public bool estaSuelo;
-
     public Transform puntoDisparo;
     public GameObject prefabBala;
 
@@ -99,10 +98,6 @@ public class comportamientoPlayer : MonoBehaviour
 
         animator.SetTrigger("disparar");
         Instantiate(prefabBala, puntoDisparo.position, puntoDisparo.rotation);
-
-
-
     }
-
 
 }

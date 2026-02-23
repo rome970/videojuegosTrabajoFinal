@@ -1,14 +1,19 @@
 using UnityEngine;
 using UnityEngine.UI;
-using UnityEngine.SceneManagement; // Importante para detectar el cambio de escena
+using UnityEngine.SceneManagement;
 
 public class GameManager : MonoBehaviour
 {
     public static GameManager instancia;
-    public int vidas = 3;
 
+    [Header("Configuración de Vidas")]
+    public int vidas = 3;
     public GameObject contenedorCorazones;
     private Image[] imagenesCorazones;
+
+    [Header("Datos Persistentes del Jugador")]
+    public bool tienePistola = false;
+    public GameObject prefabPersonaje; // Arrastra tu Prefab de personaje aquí en el Inspector
 
     void Awake()
     {
@@ -16,8 +21,6 @@ public class GameManager : MonoBehaviour
         {
             instancia = this;
             DontDestroyOnLoad(gameObject);
-
-            // Suscribirse al evento de cambio de escena
             SceneManager.sceneLoaded += OnSceneLoaded;
         }
         else
@@ -26,34 +29,40 @@ public class GameManager : MonoBehaviour
         }
     }
 
-    // Esta función se ejecuta SOLA cada vez que cambias de escena
     void OnSceneLoaded(Scene scene, LoadSceneMode mode)
     {
-        // 1. Buscamos el contenedor en la nueva escena por su nombre
-        contenedorCorazones = GameObject.Find("ContenedorCorazones");
+        // 1. Si no es el Menú, instanciamos al jugador
+        // CAMBIA "MenuPrincipal" por el nombre exacto de tu escena de menú
 
+
+        // 2. Buscamos y actualizamos la UI de corazones
+        contenedorCorazones = GameObject.Find("ContenedorCorazones");
         if (contenedorCorazones != null)
         {
-            // 2. Obtenemos las imágenes de los corazones nuevos
             imagenesCorazones = contenedorCorazones.GetComponentsInChildren<Image>();
-            // 3. Refrescamos la UI para que coincida con las vidas actuales
             ActualizarUI();
         }
     }
+
+
 
     public void RestarVida()
     {
         if (vidas > 0)
         {
             vidas--;
-            Debug.Log("Vida restada. Quedan: " + vidas);
             ActualizarUI();
+        }
+
+        if (vidas <= 0)
+        {
+            Debug.Log("Game Over");
+            // Aquí podrías cargar una escena de Game Over o reiniciar
         }
     }
 
     public void ActualizarUI()
     {
-        // Si por alguna razón no los tiene, intentamos buscarlos de nuevo
         if (imagenesCorazones == null || imagenesCorazones.Length == 0)
         {
             ActualizarReferenciasManual();
@@ -68,7 +77,6 @@ public class GameManager : MonoBehaviour
         }
     }
 
-    // Método de apoyo
     void ActualizarReferenciasManual()
     {
         contenedorCorazones = GameObject.Find("ContenedorCorazones");
@@ -78,7 +86,6 @@ public class GameManager : MonoBehaviour
 
     private void OnDestroy()
     {
-        // Limpieza del evento al destruir el objeto
         SceneManager.sceneLoaded -= OnSceneLoaded;
     }
 }
