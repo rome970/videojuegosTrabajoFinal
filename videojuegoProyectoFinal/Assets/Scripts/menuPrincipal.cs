@@ -11,6 +11,13 @@ public class menuPrincipal : MonoBehaviour
 
     public void botonInicio()
     {
+
+        // Accedemos a la instancia y reseteamos la vida antes de cargar
+        if (GameManager.instancia != null)
+        {
+            GameManager.instancia.vidas = 3;
+        }
+
         SceneManager.LoadScene("Scena1");
     }
 }

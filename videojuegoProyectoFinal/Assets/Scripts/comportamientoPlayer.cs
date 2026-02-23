@@ -2,7 +2,7 @@ using UnityEngine;
 
 public class comportamientoPlayer : MonoBehaviour
 {
-    public int vidas = 3;
+
     public Animator animator;
     public float velocidad = 8f;
     public float fuerzaSalto = 12f;
@@ -72,10 +72,13 @@ public class comportamientoPlayer : MonoBehaviour
             estaSuelo = true;
         }
 
-        if (collision.collider.tag == "enemigo")
+        if (collision.gameObject.CompareTag("enemigo"))
         {
-            vidas--;
-            if (vidas == 0)
+            // El GameManager es quien lleva la cuenta real
+            GameManager.instancia.RestarVida();
+
+            // Si quieres comprobar si murió para destruir al jugador:
+            if (GameManager.instancia.vidas <= 0)
             {
                 morir();
             }
