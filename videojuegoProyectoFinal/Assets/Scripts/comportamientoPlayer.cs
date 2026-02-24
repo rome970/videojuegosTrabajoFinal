@@ -1,4 +1,5 @@
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class comportamientoPlayer : MonoBehaviour
 {
@@ -69,6 +70,11 @@ public class comportamientoPlayer : MonoBehaviour
         if (collision.collider.tag == "Suelo")
         {
             estaSuelo = true;
+        }
+
+        if (collision.collider.tag == "puertaAScena2")
+        {
+            SceneManager.LoadScene(2);
         }
 
         if (collision.gameObject.CompareTag("enemigo"))

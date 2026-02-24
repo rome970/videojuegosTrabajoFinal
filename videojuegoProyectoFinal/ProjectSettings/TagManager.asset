@@ -8,6 +8,8 @@ TagManager:
   - bala
   - enemigo
   - EnemigoBicho
+  - armaAlienigena
+  - puertaAScena2
   layers:
   - Default
   - TransparentFX
