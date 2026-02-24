@@ -554,6 +554,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::DialogoNPC
   cuadroDialogo: {fileID: 986984091}
+  textoTMP: {fileID: 2049648294}
 --- !u!1 &129586114
 GameObject:
   m_ObjectHideFlags: 0
@@ -663,8 +664,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -561.69006, y: -252.6538}
-  m_SizeDelta: {x: 3.4398, y: 1.6124}
+  m_AnchoredPosition: {x: -559.69476, y: -251.81369}
+  m_SizeDelta: {x: 7.4304, y: 5.0014}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &201430280
 MonoBehaviour:
@@ -1817,11 +1818,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1348487041729469240, guid: 0b4b92b66b61a434ba8b400af25982dd, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 7.2353477
+      value: 7.79
       objectReference: {fileID: 0}
     - target: {fileID: 1348487041729469240, guid: 0b4b92b66b61a434ba8b400af25982dd, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -2.4359736
+      value: -2.74
       objectReference: {fileID: 0}
     - target: {fileID: 1348487041729469240, guid: 0b4b92b66b61a434ba8b400af25982dd, type: 3}
       propertyPath: m_LocalPosition.z
@@ -3450,8 +3451,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -559.12, y: -252.65}
-  m_SizeDelta: {x: 9.5062, y: 0.6535}
+  m_AnchoredPosition: {x: -559.1358, y: -252.84033}
+  m_SizeDelta: {x: 9.4745, y: 1.0341}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2049648294
 MonoBehaviour:
@@ -3538,7 +3539,7 @@ MonoBehaviour:
   m_VertexBufferAutoSizeReduction: 0
   m_useMaxVisibleDescender: 1
   m_pageToDisplay: 1
-  m_margin: {x: 0, y: 0, z: 4.674946, w: 0}
+  m_margin: {x: 0, y: -1.9189678, z: 0.04405117, w: 0}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
   m_hasFontAssetChanged: 0
